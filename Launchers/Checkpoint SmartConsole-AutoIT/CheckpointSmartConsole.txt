@@ -5,6 +5,6 @@ ProcessName:		 C:\Launchers\CheckpointSmartConsole.exe
 Process Arguments:  	 $USERNAME $PASSWORD $IPADDRESS
 
 
-PS: The a.exe file made with the AutoIT application should be in the folder above. Or path should be arranged accordingly. 
+PS: The exe file made with the AutoIT application should be in the folder above. Or path should be arranged accordingly. 
 
 Cagdas BARAK - IBM
