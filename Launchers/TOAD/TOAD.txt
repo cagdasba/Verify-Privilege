@@ -1,0 +1,10 @@
+FileZilla
+
+ProcessName:		 "C:\Program Files\Quest Software\Toad for Oracle Subscription\toad.exe"
+
+Process Arguments:  	 -c $USERNAME/$PASSWORD@$DATABASE
+
+
+PS: TOAD application must be installed in the above directory. 
+
+Cagdas BARAK - IBM
