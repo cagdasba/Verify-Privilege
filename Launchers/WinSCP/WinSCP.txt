@@ -1,4 +1,4 @@
-FileZilla
+WinSCP
 
 ProcessName:		 "C:\Program Files (x86)\WinSCP\WinSCP.exe"
 

@@ -1,4 +1,4 @@
-FileZilla
+Checkpoint Smart Console
 
 ProcessName:		 C:\Launchers\CheckpointSmartConsole.exe
 

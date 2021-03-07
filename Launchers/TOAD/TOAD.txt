@@ -1,4 +1,4 @@
-FileZilla
+TOAD
 
 ProcessName:		 "C:\Program Files\Quest Software\Toad for Oracle Subscription\toad.exe"
 
