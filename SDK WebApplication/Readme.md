@@ -1,5 +1,3 @@
-Readme.md
-
 First, we copy the SDKWeb folder to the inetpub folder. Then we publish this website via IIS. 
 
 In the second stage; We are configuring the SDK on Verify Privilege. (Sample screenshots are in the Github folder.)
