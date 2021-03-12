@@ -1,6 +1,6 @@
 First, we copy the SDKWeb folder to the inetpub folder. Then we publish this website via IIS. 
 
-In the second stage; We are configuring the SDK on Verify Privilege. (Sample screenshots are in the Github folder.)
+In the second stage; We will create an application user for SDK Configuration. I created an application user which is SDK. Afer that we are configuring the SDK on Verify Privilege. (Sample screenshots are in the Github folder.)
 
 Finally; We organize the web.config file in the SDKWeb folder according to the SDK configuration we have edited on Verify Privilege. (Sample screenshots are in the Github folder.)
 
